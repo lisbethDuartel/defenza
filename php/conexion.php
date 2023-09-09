@@ -3,7 +3,7 @@
 $servidor = "localhost"; // servidor de la base de datos
 $usuario = "root"; // usuario de la base de datos
 $contraseña = ""; // contraseña de la base de datos
-$base_de_datos = "git"; // nombre de la base de datos
+$base_de_datos = "git_proyecto"; // nombre de la base de datos
 
 // Creamos la conexión a la base de datos utilizando la función mysqli_conexionect
 $conexion = mysqli_connect($servidor, $usuario, $contraseña, $base_de_datos);

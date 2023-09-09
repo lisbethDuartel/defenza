@@ -43,9 +43,9 @@
       echo "<th>Cargo</th>";
       echo "</tr>";
       echo "<tr>";
-      echo "<td>carlos jose reyes</td>";
+      echo "<td>Lisbeth de los Angeles Duarte</td>";
       echo "<td>20</td>";
-      echo "<td>soy el encargado de HelpEASA </td>";
+      echo "<td>Administradora de las paginas </td>";
       echo "</tr>";
       echo "<tr>";
       echo "</table>";
